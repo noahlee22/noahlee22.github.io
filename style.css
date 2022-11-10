@@ -16,10 +16,14 @@ figcaption {
   color: lightgray;
   font-weight: bold;
   }
-button {
+.button {
   width: 30%
   height: 20%
+  color: powderblue;
+  border: none;
+  font-style: italic;
   }
 main {
 color: lightgray;
 }
+
