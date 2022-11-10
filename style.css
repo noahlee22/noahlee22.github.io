@@ -1,15 +1,23 @@
+body {
+background-color: black;
+}
 img {
     width: 30%;
-    }
-body {
-  background-color: powderblue;
 }
 h1 {
-  color: purple;
+  color: lightgray;
 }
 h2 {
-  color: powderblue;
+  color: lightgray;
+  text-decoration: underline;
+  text-decoration-color: blue;
 }
-body {
-background-color: #DBF9FC;
-}
+figcaption {
+  color: lightgray
+  font-weight: bold;
+  }
+button {
+  width: 30%
+  height: 20%
+  }
+
