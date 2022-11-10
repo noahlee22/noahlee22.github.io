@@ -13,11 +13,14 @@ h2 {
   text-decoration-color: blue;
 }
 figcaption {
-  color: lightgray
+  color: lightgray;
   font-weight: bold;
   }
 button {
   width: 30%
   height: 20%
   }
+main {
+color: lightgray;
+}
 
