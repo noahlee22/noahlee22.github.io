@@ -9,8 +9,8 @@ h1 {
 }
 h2 {
   color: lightgray;
-  text-decoration: underline;
-  text-decoration-color: blue;
+  font-style: italic;
+
 }
 figcaption {
   color: lightgray;
@@ -23,4 +23,3 @@ button {
 main {
 color: lightgray;
 }
-
