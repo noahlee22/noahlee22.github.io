@@ -1,12 +1,15 @@
 img {
-    width: 30%
+    width: 30%;
     }
 body {
   background-color: powderblue;
 }
 h1 {
-  color: blue;
+  color: purple;
 }
-p {
-  color: red;
+h2 {
+  color: powderblue;
+}
+body {
+background-color: #DBF9FC;
 }
